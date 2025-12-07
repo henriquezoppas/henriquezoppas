@@ -18,9 +18,6 @@
 - ##### Tecnologias de automação para o mercado de capitais  
 
 <br>
-
-No final de 2025 estarei aplicando
-
 ### *Conhecimentos:*
 
 - *COBOL*
@@ -37,4 +34,4 @@ No final de 2025 estarei aplicando
 - *Biomarcadores Genéticos e Neuroanatomicos Aplicados ao Transtorno de Parkinson*
 - *Apropriação de Simbolos Judaicos e Islâmicos na Guerra Israel–Palestina*
 
-#### Ao final do ano de 2025 estarei aplicando para o Summer Undergraduate Research Internships, Lurie Center for Autism, Massachusetts General Hospital
+
